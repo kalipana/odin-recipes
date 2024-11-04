@@ -1,0 +1,1 @@
+A recipes website to demonstrate skills in HTML (links, lists, images, ...)
